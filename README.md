@@ -1,13 +1,10 @@
 # calculator
-
-<br>
 <blockquote>
 <div>
-  <h1>Check calculator online</h1>
   <p>
     You can access the project online after click here: 
     <button>
-      <a href="https://mrc-junior.github.io/nav-animation/src/" target="_blank">Project Deployed</a>
+      <a href="https://mrc-junior.github.io/calculator/src/" target="_blank">Project Deployed</a>
     </button>
   </p>
 </div>
